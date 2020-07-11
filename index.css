@@ -1,0 +1,15 @@
+#min, #ms, #sec{
+    display: inline-block;
+    margin-left:30px;
+    margin-right: 30px;
+    color: blueviolet;
+    width:  50px;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+h1{
+    color:blueviolet
+    
+}
